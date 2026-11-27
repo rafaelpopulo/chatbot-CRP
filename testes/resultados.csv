@@ -1,0 +1,146 @@
+﻿id;pergunta;esperado;pos_artigo;pos_fixo;artigos_rec_artigo;artigos_rec_fixo;resposta_rag;resposta_baseline;tempo_s
+P01;A pena de morte é permitida em Portugal?;24;0;0;33 | 30 | 29 | 27 | 196;33 | 29,30 | 33 | 32,33 | 27;Não encontro resposta a essa pergunta na Constituição.;"Não, a pena de morte não é permitida em Portugal. De acordo com o artigo 24º da Constituição da República Portuguesa (CRP), ""A pena de morte é inaceitável"". Além disso, o artigo 24º também estabelece que ""A pena de prisão não pode exceder os 25 anos, salvo em caso de crime de lesa-pátria, em que pode atingir os 30 anos"".
+
+Portanto, a CRP estabelece expressamente a proibição da pena de morte e estabelece limites para as penas de prisão.";111
+P02;Pode haver prisão perpétua em Portugal?;30;1;1;30 | 33 | 196 | 27 | 28;29,30 | 33 | 27 | 28,29 | 30,31;Não (art. 30.º, n.º 1).;"Sim, a prisão perpétua é prevista na Constituição da República Portuguesa (CRP).
+
+De acordo com o artigo 18.º da CRP, ""A pena de prisão não pode exceder os 25 anos, salvo nos casos de crime de lesa-pátria, de genocídio ou de crime contra a humanidade, em que a pena pode ser de prisão perpétua"".
+
+Além disso, o artigo 81.º da CRP estabelece que ""A pena de prisão perpétua é aplicada aos crimes de lesa-pátria, de genocídio ou de crime contra a humanidade"".
+
+Portanto, a prisão perpétua é uma pena prevista na CRP para determinados crimes graves.";99
+P03;Que matérias não podem ser alteradas numa revisão constitucional?;288;2;1;289 | 288 | 286 | 115 | 118;287,288 | 288,289,290,291 | 284,285,286,287 | 167 | 115;"De acordo com o artigo 115.º, n.º 4, as matérias que não podem ser alteradas numa revisão constitucional são:
+
+a) As alterações à Constituição;
+b) As questões e os actos de conteúdo orçamental, tributário ou financeiro;
+c) As matérias previstas no artigo 161.º da Constituição, sem prejuízo do disposto no número seguinte;
+d) As matérias previstas no artigo 164.º da Constituição, com excepção do disposto na alínea i).
+
+Além disso, o artigo 288.º também estabelece limites materiais para a revisão constitucional, mas não menciona explicitamente as matérias que não podem ser alteradas. No entanto, o artigo 289.º estabelece que não pode ser praticado nenhum acto de revisão constitucional na vigência de estado de sítio ou de estado de emergência.
+
+Portanto, a resposta final é que as matérias que não podem ser alteradas numa revisão constitucional são aquelas mencionadas no artigo 115.º, n.º 4, e também as que forem praticadas durante estado de sítio ou de estado de emergência, de acordo com o artigo 289.º.";"De acordo com o Artigo 9º da Constituição da República Portuguesa (CRP), as matérias que não podem ser alteradas numa revisão constitucional são as seguintes:
+
+*   A forma de governo republicana e a organização do Estado (Artigo 1º);
+*   A soberania nacional e a integridade territorial (Artigo 2º);
+*   A igualdade de todos os cidadãos perante a lei (Artigo 13º);
+*   A liberdade de consciência e de religião (Artigo 44º);
+*   A liberdade de expressão e de informação (Artigo 37º);
+*   A liberdade de reunião e de associação (Artigo 53º);
+*   A proteção da vida, da integridade física e da liberdade (Artigo 24º);
+*   A proteção da família e da criança (Artigo 65º);
+*   A proteção do trabalho e da segurança social (Artigo 59º);
+*   A proteção do meio ambiente (Artigo 268º).
+
+Essas matérias são consideradas fundamentais para a estrutura e os direitos fundamentais da República Portuguesa e não podem ser alteradas sem uma revisão constitucional que seja aprovada por uma maioria de dois terços dos deputados na Assembleia da República.";210
+P04;Uma maioria de 2/3 eleita com um programa monárquico pode restaurar a monarquia?;288,286;1;3;286 | 126 | 192 | 123 | 152;192,193,194 | 136 | 284,285,286,287 | 168 | 288,289;Não encontro resposta a essa pergunta na Constituição.;"Não, uma maioria de 2/3 eleita com um programa monárquico não pode restaurar a monarquia.
+
+De acordo com o Artigo 11.º da Constituição da República Portuguesa (CRP), a forma de governo é a República, e a monarquia foi abolida com a Revolução do 25 de Abril de 1974.
+
+O Artigo 11.º da CRP estabelece que ""A República Portuguesa é uma, indivisível e soberana, fundada no trabalho e na liberdade, com base nos princípios da democracia, da justiça social e da igualdade de todos os cidadãos perante a lei"".
+
+Além disso, o Artigo 9.º da CRP estabelece que ""A Constituição não pode ser alterada senão por lei aprovada em dois processos de votação, com um intervalo mínimo de 15 dias, por maioria de 2/3 dos votos dos deputados presentes"".
+
+Portanto, para alterar a forma de governo da República para a monarquia, seria necessário um processo de alteração da Constituição que atendesse a esses requisitos, o que não é possível com uma maioria de 2/3 eleita com um programa monárquico.";102
+P05;Que idade é preciso ter para ser candidato a Presidente da República?;122;2;3;124 | 122 | 125 | 128 | 126;123,124 | 124,125,126 | 120,121,122,123 | 127,128,129 | 126,127;Não encontro resposta a essa pergunta na Constituição.;De acordo com o artigo 121.º da Constituição da República Portuguesa (CRP), para ser candidato a Presidente da República é necessário ter mais de 35 anos de idade.;31
+P06;Quanto tempo dura o mandato do Presidente da República?;128;1;1;128 | 125 | 230 | 132 | 129;127,128,129 | 124,125,126 | 130,131,132 | 229,230 | 132,133;O mandato do Presidente da República tem a duração de cinco anos (art. 128.º, n.º 1).;O mandato do Presidente da República dura 5 anos (artigo 121.º da CRP).;35
+P07;Quantos deputados tem a Assembleia da República?;148;1;1;148 | 147 | 175 | 163 | 174;146,147,148,149 | 163,164 | 174,175,176 | 170,171,172 | 151,152,153;De acordo com o Excerto 1 (artigos 148), a Assembleia da República tem o mínimo de 180 e o máximo de 230 deputados, nos termos da lei eleitoral. (art. 148.º, n.º 1);De acordo com o artigo 165.º da Constituição da República Portuguesa (CRP), a Assembleia da República é composta por 230 deputados.;52
+P08;Com que idade se pode votar?;49;2;1;122 | 49 | 115 | 125 | 121;48,49,50 | 120,121,122,123 | 124,125,126 | 151,152,153 | 192,193,194;De acordo com o Excerto 2 (artigo 49), os cidadãos maiores de dezoito anos têm direito de sufrágio.;"De acordo com o artigo 13.º da Constituição da República Portuguesa (CRP), os cidadãos portugueses maiores de 18 anos têm direito a votar.
+
+Artigo 13.º da CRP: ""O direito de voto é exercido pelos cidadãos portugueses maiores de 18 anos.""";65
+P09;O direito à greve está protegido na Constituição?;57;1;1;57 | 19 | 270 | 59 | 27;56,57,58 | 56,57 | 54,55 | 43,44,45,46 | 270,271;Sim, o direito à greve está protegido na Constituição. (art. 57.º, n.º 1);"Sim, o direito à greve está protegido na Constituição da República Portuguesa (CRP).
+
+De acordo com o artigo 53.º da CRP, ""Têm direito a greve os trabalhadores, sem prejuízo das garantias de ordem pública e da segurança das pessoas e das coisas"".
+
+Além disso, o artigo 54.º da CRP estabelece que ""A greve é exercida nos termos da lei, sem prejuízo das garantias de ordem pública e da segurança das pessoas e das coisas"".
+
+Portanto, a Constituição reconhece o direito à greve como um direito dos trabalhadores, desde que seja exercido de acordo com a lei e sem prejuízo da ordem pública e da segurança.";108
+P10;O que diz a Constituição sobre a liberdade de expressão?;37;1;1;37 | 38 | 39 | 41 | 19;36,37 | 37,38 | 41,42,43,44 | 40,41 | 39;"A Constituição diz que todos têm o direito de exprimir e divulgar livremente o seu pensamento pela palavra, pela imagem ou por qualquer outro meio, bem como o direito de informar, de se informar e de ser informados, sem impedimentos nem discriminações (art. 37.º, n.º 1).
+
+Além disso, o exercício destes direitos não pode ser impedido ou limitado por qualquer tipo ou forma de censura (art. 37.º, n.º 2).
+
+E ainda, as infracções cometidas no exercício destes direitos ficam submetidas aos princípios gerais de direito criminal ou do ilícito de mera ordenação social (art. 37.º, n.º 3).";"A Constituição da República Portuguesa (CRP) garante a liberdade de expressão nos seguintes termos:
+
+""Artigo 37.º - A liberdade de expressão é garantida, sem qualquer censura prévia, em todos os meios de comunicação social, sem prejuízo do direito à resposta.
+
+Artigo 38.º - A liberdade de expressão inclui a liberdade de imprensa, a liberdade de informação, a liberdade de comunicação social e a liberdade de radiodifusão.
+
+Artigo 39.º - A liberdade de expressão não pode ser restringida, salvo em caso de estado de emergência, de acordo com o disposto no artigo 19.º, ou em caso de estado de sítio, de acordo com o disposto no artigo 20.º.""
+
+Portanto, a CRP garante a liberdade de expressão, sem censura prévia, e apenas admite restrições em casos excepcionais, como estado de emergência ou estado de sítio.";166
+P11;Todos os cidadãos são iguais perante a lei?;13;1;1;13 | 12 | 20 | 52 | 36;12,13,14 | 20,21,22 | 43,44,45,46 | 35,36 | 19,20;Sim, todos os cidadãos são iguais perante a lei (art. 13.º, n.º 1).;"Sim, todos os cidadãos são iguais perante a lei, conforme estabelecido no Artigo 13.º da Constituição da República Portuguesa (CRP).
+
+""Artigo 13.º - Todos os cidadãos são iguais perante a lei.""
+
+Este princípio fundamental da igualdade perante a lei é um dos pilares da democracia e da justiça, garantindo que todos os cidadãos tenham os mesmos direitos e oportunidades, independentemente da sua origem, condição social, raça, sexo, religião, opinião política ou ideológica.";75
+P12;Existe um direito à habitação?;65;1;1;65 | 44 | 265 | 62 | 72;64,65 | 43,44,45,46 | 14,15 | 19,20 | 71,72;Sim, existe um direito à habitação. (art. 65.º, n.º 1);"Sim, existe um direito à habitação, embora não seja um direito absoluto e incondicional. O artigo 65.º da Constituição da República Portuguesa (CRP) estabelece que ""Todas as pessoas têm direito à habitação digna e ao respeito pela sua privacidade"".
+
+Além disso, o artigo 62.º da CRP afirma que ""A República Portuguesa garante a todos os cidadãos o direito à habitação, em condições de dignidade e segurança"".
+
+No entanto, é importante notar que o direito à habitação não é um direito absoluto e incondicional. A CRP estabelece que a habitação deve ser ""digna"" e que o Estado pode estabelecer condições e limites para o exercício desse direito, como por exemplo, a necessidade de cumprir com as obrigações de pagamento de alugueres ou de impostos.
+
+Portanto, o direito à habitação é um direito fundamental, mas que pode ser limitado ou condicionado em determinadas circunstâncias.";103
+P13;O Estado tem de garantir um serviço nacional de saúde?;64;1;1;64 | 273 | 9 | 67 | 81;64 | 64 | 63,64 | 59 | 64,65;Sim, o Estado tem de garantir um serviço nacional de saúde. (art. 64.º, n.º 1);"Sim, o Estado tem a obrigação de garantir um serviço nacional de saúde. Isso está previsto no artigo 64.º da Constituição da República Portuguesa (CRP), que estabelece que ""A República Portuguesa garante a todos, independentemente da sua situação ou condição, o direito ao tratamento de saúde"".
+
+Além disso, o artigo 64.º também determina que ""A organização do serviço nacional de saúde é competência do Estado, que o desenvolve em colaboração com as autarquias locais e com as instituições particulares"".
+
+Portanto, o Estado tem a responsabilidade de garantir que todos os cidadãos tenham acesso a cuidados de saúde de qualidade, independentemente da sua situação financeira ou social.";104
+P14;Quantos juízes tem o Tribunal Constitucional?;222;1;1;222 | 221 | 223 | 209 | 215;220,221,222 | 222,223 | 281 | 163,164 | 207,208,209;De acordo com o art. 222.º, n.º 1, o Tribunal Constitucional é composto por treze juízes.;O Tribunal Constitucional tem 12 juízes, conforme estabelecido no artigo 203.º da Constituição da República Portuguesa (CRP).;50
+P15;Em que casos pode haver um referendo nacional?;115;1;1;115 | 167 | 164 | 197 | 240;115 | 114,115 | 115 | 115,116 | 115;Pode haver um referendo nacional nos casos e nos termos previstos na Constituição e na lei, em matérias das respectivas competências, mediante proposta da Assembleia da República ou do Governo (art. 115.º, n.º 1).;"Um referendo nacional pode ocorrer em Portugal de acordo com o artigo 168.º da Constituição da República Portuguesa (CRP).
+
+De acordo com o artigo 168.º, o referendo nacional pode ser convocado em dois casos:
+
+1. **Quando o Governo o propuser e o Parlamento o autorize**: Nesse caso, o Governo pode propor a realização de um referendo nacional sobre uma questão específica, e o Parlamento pode autorizar a realização do referendo, desde que seja por maioria absoluta dos votos dos deputados presentes.
+
+2. **Quando o Parlamento o decida por maioria absoluta**: Além disso, o Parlamento pode decidir por maioria absoluta dos votos dos deputados presentes a realização de um referendo nacional sobre uma questão específica.
+
+Em ambos os casos, o referendo nacional visa consultar a opinião pública sobre uma questão importante e relevante para a sociedade portuguesa.";141
+P16;Que direitos nunca podem ser suspensos em estado de emergência?;19;1;1;19 | 30 | 57 | 27 | 24;19 | 19 | 19 | 19,20 | 18,19;De acordo com o art. 19.º, n.º 6, os direitos à vida, à integridade pessoal, à identidade pessoal, à capacidade civil e à cidadania, a não retroactividade da lei criminal, o direito de defesa dos arguidos e a liberdade de consciência e de religião nunca podem ser suspensos em estado de emergência.;"De acordo com o Artigo 18.º da Constituição da República Portuguesa (CRP), os direitos e liberdades garantidos pela Constituição, nomeadamente os direitos à vida, à liberdade e à segurança, não podem ser suspensos em estado de emergência.
+
+Além disso, o Artigo 18.º também estabelece que não podem ser suspensos os direitos à igualdade, à não discriminação, à liberdade de consciência e de religião, à liberdade de expressão e de informação, à liberdade de reunião e de associação, e à liberdade de circulação e de residência.
+
+Portanto, os direitos que nunca podem ser suspensos em estado de emergência são:
+
+* Direito à vida
+* Direito à liberdade
+* Direito à segurança
+* Direito à igualdade
+* Direito à não discriminação
+* Direito à liberdade de consciência e de religião
+* Direito à liberdade de expressão e de informação
+* Direito à liberdade de reunião e de associação
+* Direito à liberdade de circulação e de residência
+
+(CRP, Artigo 18.º)";146
+P17;Portugal pode extraditar alguém para um país onde arrisca a pena de morte?;33;1;1;33 | 14 | 196 | 27 | 30;33 | 33 | 32,33 | 27 | 7,8;Não (art. 33.º, n.º 6).;"Não, Portugal não pode extraditar alguém para um país onde arrisca a pena de morte, de acordo com o artigo 23º da Constituição da República Portuguesa (CRP).
+
+O artigo 23º da CRP estabelece que ""A República Portuguesa não extraditará ninguém para ser julgado ou punido por crimes políticos ou comuns, salvo o caso de crimes de genocídio, crimes contra a humanidade, crimes de guerra e crimes contra a paz"".
+
+Além disso, o artigo 24º da CRP estabelece que ""A República Portuguesa não extraditará ninguém para ser punido com pena de morte"".
+
+Portanto, a resposta é não, Portugal não pode extraditar alguém para um país onde arrisca a pena de morte, devido à proteção constitucional contra a pena de morte e a proibição de extraditar para países que aplicam essa pena.";125
+P18;Quando é que o Presidente não pode dissolver a Assembleia da República?;172;1;1;172 | 234 | 179 | 129 | 145;170,171,172 | 172,173,174 | 233,234 | 174,175,176 | 145,146;"De acordo com o art. 172.º, n.º 1, a Assembleia da República não pode ser dissolvida nos seguintes casos:
+
+- Nos seis meses posteriores à sua eleição;
+- No último semestre do mandato do Presidente da República;
+- Durante a vigência do estado de sítio ou do estado de emergência.
+
+(art. 172.º, n.º 1)";"O Presidente da República não pode dissolver a Assembleia da República em dois casos:
+
+1. **Durante o período de um ano após as eleições legislativas** (artigo 124.º da CRP): Após as eleições legislativas, a Assembleia da República é eleita para um mandato de quatro anos. Durante o primeiro ano após a eleição, o Presidente não pode dissolver a Assembleia, a menos que esta seja dissolvida por um voto de confiança ou por uma moção de censura.
+2. **Quando a Assembleia da República esteja a discutir e votar o orçamento do Estado** (artigo 124.º, n.º 2, da CRP): O Presidente não pode dissolver a Assembleia durante o período em que esta esteja a discutir e votar o orçamento do Estado.
+
+Essas restrições visam garantir a estabilidade do governo e a continuidade dos trabalhos legislativos.";164
+P19;Qual é a taxa de IVA de um café num restaurante?;—;;;104 | 103 | 254 | 40 | 238;101,102,103,104 | 103,104,105 | 165 | 288,289 | 59,60;Não encontro resposta a essa pergunta na Constituição.;"A taxa de IVA (Imposto sobre o Valor Acrescentado) para os serviços de restauração, incluindo o café num restaurante, é de 23% (artigo 1º, nº 1, alínea a) do Decreto-Lei n.º 28/2012, de 6 de fevereiro).
+
+No entanto, é importante notar que a CRP não estabelece a taxa de IVA, mas sim o Decreto-Lei n.º 28/2012, de 6 de fevereiro, que é uma lei complementar à CRP.
+
+A taxa de IVA pode variar dependendo do tipo de estabelecimento e do valor do serviço. Além disso, existem algumas exceções e reduções de IVA para certos serviços e produtos.
+
+Se você tiver mais alguma dúvida ou precisar de mais informações, sinta-se à vontade para perguntar!";188
+P20;Quem ganhou as últimas eleições legislativas?;—;;;161 | 167 | 231 | 226 | 164;230,231 | 160,161 | 167 | 146,147,148,149 | 172,173,174;Não encontro resposta a essa pergunta na Constituição.;"As últimas eleições legislativas em Portugal foram realizadas em 30 de janeiro de 2022. De acordo com os resultados oficiais, o partido que obteve a maioria dos votos e, consequentemente, a maioria dos deputados na Assembleia da República foi o Partido Socialista (PS).
+
+O PS, liderado por António Costa, obteve 36,5% dos votos e 117 deputados. O partido mais votado na oposição foi o Chega, com 13,3% dos votos e 24 deputados.
+
+Os resultados das eleições podem ser consultados no site do Tribunal Constitucional de Portugal, que é o órgão responsável por proclamar os resultados das eleições em Portugal.
+
+Artigo 165.º da Constituição da República Portuguesa (CRP) estabelece que as eleições legislativas são realizadas a cada quatro anos, salvo se o Governo pedir a dissolução da Assembleia da República e a realização de eleições antecipadas.";323
