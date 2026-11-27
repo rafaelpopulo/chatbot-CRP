@@ -9,7 +9,7 @@ Protótipo de um chatbot que responde a perguntas sobre a **Constituição da Re
 
 ## Arquitetura
 
-![Arquitetura](docs/Arquitetura_Chatbot_CRP.png)
+![Arquitetura]
 
 1. **Indexação** (corre uma vez): PDF da CRP → texto limpo → divisão em chunks → embeddings → ChromaDB.
 2. **Consulta** (em cada pergunta): pergunta → embedding → 5 excertos mais próximos → prompt → LLM → resposta com os artigos citados.
